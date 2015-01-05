@@ -113,13 +113,13 @@
    <text xml:lang="eng">
       <front>
          <div type="half_title">
-            <pb facs="tcp:032512_0000_0FF313BEA3A0ED08"/>
-            <pb facs="tcp:032512_0001_0FF3137EC869CF00"/>
+            <pb facs="unknown:032512_0000_0FF313BEA3A0ED08"/>
+            <pb facs="unknown:032512_0001_0FF3137EC869CF00"/>
             <p>BEACON HILL</p>
             <p>BOOK I.</p>
          </div>
          <div type="title_page">
-            <pb facs="tcp:032512_0002_0FF31381B2555C58"/>
+            <pb facs="unknown:032512_0002_0FF31381B2555C58"/>
             <p>BEACON HILL. <hi>A Local Poem. HISTORIC AND DESCRIPTIVE.</hi> BOOK I.</p>
             <p>
                <hi>Published according to Act of Congress.</hi>
@@ -127,7 +127,7 @@
             <p>Boston. Printed by MANNING <hi>&amp;</hi> LORING for the <hi>AUTHOR.</hi> 1797.</p>
          </div>
          <div type="dedication">
-            <pb facs="tcp:032512_0003_0FF3138486E88E00"/>
+            <pb facs="unknown:032512_0003_0FF3138486E88E00"/>
             <head>Dedication.</head>
             <p>TO THE CITIZEN-SOLDIERS, WHO <hi>FOUGHT, CONQUERED,</hi> AND RETIRED, UNDER THE BANNERS OF <hi>WASHINGTON</hi> AND <hi>FREEDOM,</hi> The following POEM is, WITH ALL RESPECT, GRATITUDE AND ADMIRATION.</p>
             <closer>
@@ -135,7 +135,7 @@
             </closer>
          </div>
          <div type="apology">
-            <pb facs="tcp:032512_0004_0FF313896087BA70"/>
+            <pb facs="unknown:032512_0004_0FF313896087BA70"/>
             <head>APOLOGY FOR THE POEM.</head>
             <p>I AM aware, it may be objected to the production, which assumes the title of BEACON HILL, that the appellation is not sufficiently appropriate, and that twenty other names would equally apply to those conspicuous features, which the author has attempted to delineate. True—but</p>
             <lg>
@@ -146,18 +146,18 @@
             </p>
             <p>Yet, when it is remembered, that the great events, which form the sub<g ref="char:EOLhyphen"/>ject of the piece, originated within the view of this interesting eminence, the mind, by the natural association of ideas, will be easily led to con<g ref="char:EOLhyphen"/>template every succeeding occurrence of the Revolution.—But enough of <hi>Names</hi>—the motives of my vanity, or the causes of my presumption, in attempting so great a subject, require a more particular apology.</p>
             <p>To gratify a wish, expressed by one, whose injunctions it is my pleasure to regard, I was prevailed on to attempt a short sketch of the delightful views, displayed from this commanding summit: when meeting his ob<g ref="char:EOLhyphen"/>servation, the judgment of the critic was lost in the partiality of the friend, and he earnestly solicited their enlargement by a general allusion to those great political events, which had their origin, and were essentially matured, in the vicinity of this celebrated spot. Having been himself, at an early pe<g ref="char:EOLhyphen"/>riod of life, actively engaged in those important scenes, he now became so
-<pb n="viii" facs="tcp:032512_0005_0FF3138C04062E90"/>
+<pb n="viii" facs="unknown:032512_0005_0FF3138C04062E90"/>
 eloquent in description, and so rich in anecdote, that I could not with in<g ref="char:EOLhyphen"/>difference listen to his request, nor fail to partake of his enthusiasm; and, by the assistance of the best historians of our country, was induced to en<g ref="char:EOLhyphen"/>list and enlarge, till I was terrified at my own temerity.</p>
             <p>When the season recalled me to the busy world, my poem was relin<g ref="char:EOLhyphen"/>quished, and the appropriate occupations of my sex and station prevented even a thought of its continuance; till restored to my beloved solitude, the same vigilant instructor again awakened my attention. In this man<g ref="char:EOLhyphen"/>ner several seasons glided away, till despair of being able any further to correct its errors, and anxiety to be freed from the misery of suspense, has impelled me, "with all its imperfections on its head," and <hi>all my appre<g ref="char:EOLhyphen"/>hensions on my heart,</hi> to risk its appearance at the tribunal of literary inves<g ref="char:EOLhyphen"/>tigation; yet neither deprecating judgment, nor imploring mercy, but patiently waiting the award of impartial justice.</p>
             <p>Impressed with the idea, that an author should be considered of no sex, and that the individual must be lost in the writer, I solicit unprejudiced crit<g ref="char:EOLhyphen"/>icism and invite candid censure; for in presuming to meet the public eye, I am sensible it is necessary to resign all personal considerations, and that neither my avocations nor my incapacity will be suffered to plead for me: but I have dared to hope, that my <hi>verses</hi> alone can receive the general disapprobation, as no party prejudice, no spirit of contention, has de<g ref="char:EOLhyphen"/>graded the exalted theme: to those, whom the annals of their country have mentioned with honor, the <hi>Muse</hi> has given glory; yet has not the limits of the poem permitted the author to bestow on every individual <hi>all</hi> the applause, which his own great actions, on the ample page of history, will more gracefully perpetuate. In situations, where an equality of character was conspicuous, some brilliant event of superior fortune, not personal prepossession, has induced the alternative: nor will, it is anx<g ref="char:EOLhyphen"/>iously hoped, offence be felt, where only honor was intended.</p>
             <p>
-               <pb n="ix" facs="tcp:032512_0006_0FF3138E46D8BB38"/>
+               <pb n="ix" facs="unknown:032512_0006_0FF3138E46D8BB38"/>
 It has also been the intention of the author tenaciously to preserve a sacred regard for eventful facts, although in some instances she has ven<g ref="char:EOLhyphen"/>tured to transpose their period—and if it has appeared poetically essential to vary the chronology, in no instance, to her knowledge, has the integrity of history been violated.</p>
             <p>The apprehensive feelings of the author did not permit her at present to offer more than the first book—what remain are perhaps not more meritorious, and if this fail to please, ruin is alike the portion of them all; but should those, whom I am proud to respect for their judgment, taste and talents, approve the venturous stranger, the succeed<g ref="char:EOLhyphen"/>ing numbers will instantly appear; in some of which the author has felt most pleasure in painting the interesting occurrences of individual mem<g ref="char:EOLhyphen"/>oirs; and the noble enthusiasm of the gallant <hi>FAYETTE,</hi> the heroic and impassioned adventures of Lady <hi>HARRIOT ACKLAND,</hi> the tragic fate of the unfortunate Miss <hi>McCREA,</hi> and the pathetic perils of the young and ac<g ref="char:EOLhyphen"/>complished <hi>ASGIL,</hi> &amp;c. will occasionally diversify the scene, and awaken, at least in the female breast, sympathy and condolence. To the tender and feeling bosom of that benevolent sex, let me be permitted to offer one sentence ere I close.</p>
             <p>I know, my fair friends, that with many, who do not write, application to literature in a female is imagined to imply a neglect of appropriate duties. As this idea has originated rather in misapprehension than ma<g ref="char:EOLhyphen"/>lignity, it may not be improper to observe, that it is only amid the leisure and retirement, to which the sultry season is devoted, that I permit my<g ref="char:EOLhyphen"/>self to hold converse with the Muses; nor does their enchantment ever allure me from one personal occupation, which my station renders ob<g ref="char:EOLhyphen"/>ligatory; but those hours, which might otherwise be lost in dissipation, or sunk in languor, are alone resigned to the unoffending charms of Poetry and Science.</p>
          </div>
          <div type="analysis">
-            <pb facs="tcp:032512_0007_0FF3139028B23298"/>
+            <pb facs="unknown:032512_0007_0FF3139028B23298"/>
             <head>ANALYSIS OF BOOK I.</head>
             <p>Allusion to the surrounding Prospect—Invocation to the River and syl<g ref="char:EOLhyphen"/>van Deities—to the Historic Muse—Fiction discarded—Dedication to WASHINGTON—The Action opens at the Retreat of the <hi>Columbian<g ref="char:punc">▪</g>
                </hi> from Bunker's Hill—General HOWE—The Memory of his Brother—Death of WARREN—Personification of <hi>Fortune</hi> and <hi>Fame</hi>—WASHING<g ref="char:EOLhyphen"/>TON at Mount <hi>Vernon</hi>—called to the chief Command—Formation of the Columbian Camp at <hi>Cambridge</hi>—Natural, moral, or political His<g ref="char:EOLhyphen"/>tory of the several States—Their commanding Officers—Siege of <hi>Bos<g ref="char:EOLhyphen"/>ton</hi>—Its Sufferings—Negociation for the safe Retreat of the British Army—Its Departure—Appointment of Congress—DECLARATION OF INDEPENDENCE—Character of the Columbian Soldiers—The Poet's prophetic Apostrophe to the Progress of Freedom throughout the World.</p>
@@ -165,7 +165,7 @@ It has also been the intention of the author tenaciously to preserve a sacred re
       </front>
       <body>
          <div type="poem">
-            <pb facs="tcp:032512_0008_0FF3139308094FE0"/>
+            <pb facs="unknown:032512_0008_0FF3139308094FE0"/>
             <head>BEACON HILL.</head>
             <head>BOOK I.</head>
             <lg>
@@ -182,7 +182,7 @@ It has also been the intention of the author tenaciously to preserve a sacred re
                <l>Here the light scyons' wavy beauties flow,</l>
                <l>And seem a plumage on the mountain's brow.</l>
                <l>
-                  <pb n="12" facs="tcp:032512_0009_0FF31396D20CB270"/>
+                  <pb n="12" facs="unknown:032512_0009_0FF31396D20CB270"/>
 There the proud dome o'erlooks the distant mead,</l>
                <l>Where the blue <hi>Mystic</hi> lifts his sparkling head,</l>
                <l>
@@ -207,7 +207,7 @@ There the proud dome o'erlooks the distant mead,</l>
                <l>Charm'd by her smile, with partial bounty raise</l>
                <l>The fairest chaplet of poetic praise,</l>
                <l>
-                  <pb n="13" facs="tcp:032512_0010_0FF3139A84463148"/>
+                  <pb n="13" facs="unknown:032512_0010_0FF3139A84463148"/>
 Full as the wave o'er <hi>Charles'</hi>s bosom flows,</l>
                <l>Sweet as the breathings of your whispering boughs;</l>
                <l>Deck the loved lay with all your blending views,</l>
@@ -231,7 +231,7 @@ Full as the wave o'er <hi>Charles'</hi>s bosom flows,</l>
                <l>What though no Genius, with enchanting power,</l>
                <l>Charm the coy MUSES from their classic bower,</l>
                <l>
-                  <pb n="14" facs="tcp:032512_0011_0FF3139C247C5CD0"/>
+                  <pb n="14" facs="unknown:032512_0011_0FF3139C247C5CD0"/>
 To wake with graceful art the slumbering line,</l>
                <l>And round <hi>Columbia's native minstrel</hi> twine</l>
                <l>One laurel wreath—yet shall her daring hand</l>
@@ -255,7 +255,7 @@ To wake with graceful art the slumbering line,</l>
                <l>And then with graceful majesty RETIRE,</l>
                <l>Quit the high seat—and bid a world admire.—</l>
                <l>
-                  <pb facs="tcp:032512_0012_0FF3139EF796C238"/>
+                  <pb facs="unknown:032512_0012_0FF3139EF796C238"/>
 In every scene of venturous war renown'd,</l>
                <l>With every gift of peaceful blessing crown'd,</l>
                <l>Through the thick shades, thy laurel'd vale displays,</l>
@@ -279,7 +279,7 @@ In every scene of venturous war renown'd,</l>
                <l>Domestic rage the bolts of ruin hurl'd,</l>
                <l>And social discord sired the western world,</l>
                <l>
-                  <pb n="16" facs="tcp:032512_0013_0FF313A291820670"/>
+                  <pb n="16" facs="unknown:032512_0013_0FF313A291820670"/>
 O'er yon fair scene, by favoring Heaven approved,</l>
                <l>Enrich'd by Commerce, and by Science loved,</l>
                <l>The furious blaze its wasteful torrent pours,</l>
@@ -305,7 +305,7 @@ O'er yon fair scene, by favoring Heaven approved,</l>
             </lg>
             <lg>
                <l>
-                  <pb n="17" facs="tcp:032512_0014_0FF313A538D1AB68"/>
+                  <pb n="17" facs="unknown:032512_0014_0FF313A538D1AB68"/>
 Yet the prophetic poet's piercing eyes<hi rend="sup">(</hi>4)</l>
                <l>Will guard the sod, where wounded valor lies,</l>
                <l>Till a victorious country's grateful claim</l>
@@ -329,7 +329,7 @@ Yet the prophetic poet's piercing eyes<hi rend="sup">(</hi>4)</l>
                <l>From whose resplendent height <hi>the changling</hi> towers,</l>
                <l>And smiles alternate on the warring powers;</l>
                <l>
-                  <pb n="18" facs="tcp:032512_0015_0FF313A8F7D0AA70"/>
+                  <pb n="18" facs="unknown:032512_0015_0FF313A8F7D0AA70"/>
 To young <hi>Columbia</hi> bends with look benign,</l>
                <l>Then bids her glance on haughty <hi>Britain</hi> shine,—</l>
                <l>FORTUNE!—who erst beneath Hesperian skies</l>
@@ -354,7 +354,7 @@ To young <hi>Columbia</hi> bends with look benign,</l>
                <l>Since their sweet power enlighten'd Truth disdains,</l>
                <l>And Reason wills them from her patriot plains;</l>
                <l>
-                  <pb n="19" facs="tcp:032512_0016_0FF313ABC4CD56F0"/>
+                  <pb n="19" facs="unknown:032512_0016_0FF313ABC4CD56F0"/>
 To such alone the timid minstrel bows.</l>
                <l>As genius loves, and local faith allows:—</l>
                <l>FORTUNE and FAME, whose consecrated power</l>
@@ -378,7 +378,7 @@ To such alone the timid minstrel bows.</l>
             </lg>
             <lg>
                <l>
-                  <pb n="20" facs="tcp:032512_0017_0FF313AF36F65BB8"/>
+                  <pb n="20" facs="unknown:032512_0017_0FF313AF36F65BB8"/>
 Where beauteous <hi>Vernon</hi> blooms in rural pride,</l>
                <l>And broad <hi>Potomack'</hi>s shoalless waters glide,</l>
                <l>GREAT WASHINGTON, in ease and wealth reclined.</l>
@@ -402,7 +402,7 @@ Where beauteous <hi>Vernon</hi> blooms in rural pride,</l>
                <l>Touch'd by the view of dark impending woes,</l>
                <l>From scenes of bliss the PATRIOT-CHAMPION rose,</l>
                <l>
-                  <pb n="21" facs="tcp:032512_0018_0FF313B1E70F1D70"/>
+                  <pb n="21" facs="unknown:032512_0018_0FF313B1E70F1D70"/>
 Disdain'd the meed his peerless perils claim,<hi rend="sup">(</hi>6)</l>
                <l>His trophy Freedom, and his guerdon Fame;</l>
                <l>Could with firm mind luxurious peace despise,</l>
@@ -427,7 +427,7 @@ Disdain'd the meed his peerless perils claim,<hi rend="sup">(</hi>6)</l>
                <l>Where learning's sons their blameless lives repose,</l>
                <l>At danger's call the camp of freedom rose;</l>
                <l>
-                  <pb n="22" facs="tcp:032512_0019_0FF313B4B7D770D0"/>
+                  <pb n="22" facs="unknown:032512_0019_0FF313B4B7D770D0"/>
                   <hi>Columbia'</hi>s HERO all her cause commands,</l>
                <l>And trains to war her new untutor'd bands.—</l>
                <l>—What bands, what warriors, from what climes they came.</l>
@@ -451,7 +451,7 @@ Disdain'd the meed his peerless perils claim,<hi rend="sup">(</hi>6)</l>
                <l>Till the soft shade, with many a vow caress'd,</l>
                <l>Gives the whole charmer to his raptured breast.—</l>
                <l>
-                  <pb n="23" facs="tcp:032512_0020_0FF313B98AD38BA0"/>
+                  <pb n="23" facs="unknown:032512_0020_0FF313B98AD38BA0"/>
 So, heavenly Muse, thy kindling touches give,</l>
                <l>And bid the long-departed action live,</l>
                <l>With glowing hand the Hero's soul inspire,</l>
@@ -475,7 +475,7 @@ So, heavenly Muse, thy kindling touches give,</l>
                <l>True to the varying year, the storms, that bind</l>
                <l>The manly members, nerve their kindred mind,</l>
                <l>
-                  <pb n="24" facs="tcp:032512_0021_0FF313BC35436810"/>
+                  <pb n="24" facs="unknown:032512_0021_0FF313BC35436810"/>
 That arm, which stems the tide's tempestuous roar,</l>
                <l>Braves with congenial might the warring shore;—</l>
                <l>Sons of the sea, and guardians of the soil,</l>
@@ -499,7 +499,7 @@ That arm, which stems the tide's tempestuous roar,</l>
                <l>Where the starved wretch, by suffering folly led</l>
                <l>To snatch the feast, whence pamper'd plenty fed,</l>
                <l>
-                  <pb n="25" facs="tcp:032512_0022_0FF1DE006446D5B0"/>
+                  <pb n="25" facs="unknown:032512_0022_0FF1DE006446D5B0"/>
 Shut from the sunny breeze, and healthful skies,</l>
                <l>On the cold dripping stone low-withering lies!</l>
                <l>Torn from the clime, that gave his miseries birth,</l>
@@ -523,7 +523,7 @@ Shut from the sunny breeze, and healthful skies,</l>
                <l>Here the red hunter's venerating eyes</l>
                <l>Behold the quiver'd shades of heroes rise;</l>
                <l>
-                  <pb n="26" facs="tcp:032512_0023_0FF313C19D046010"/>
+                  <pb n="26" facs="unknown:032512_0023_0FF313C19D046010"/>
 Yet since the ancient tenants of the wood</l>
                <l>Gain'd a dry refuge from the covering flood,</l>
                <l>No impious step the hallow'd height profanes;</l>
@@ -547,7 +547,7 @@ Yet since the ancient tenants of the wood</l>
                <l>The clover'd valley, and the barley'd hid,</l>
                <l>The busy flail, the never-resting mill,</l>
                <l>
-                  <pb n="27" facs="tcp:032512_0024_0FF313C47022EBF8"/>
+                  <pb n="27" facs="unknown:032512_0024_0FF313C47022EBF8"/>
 Join'd with the milk-maid's song, the ploughman's glee,</l>
                <l>Were all thy gift, and drew their hope from thee;—</l>
                <l>
@@ -570,7 +570,7 @@ Join'd with the milk-maid's song, the ploughman's glee,</l>
                <l>Beneath the sway of fearless <hi>Philip</hi> shone,<hi rend="sup">(</hi>10)</l>
                <l>And call'd the habitable clime their own.</l>
                <l>
-                  <pb n="28" facs="tcp:032512_0025_0FF313C83670DBF0"/>
+                  <pb n="28" facs="unknown:032512_0025_0FF313C83670DBF0"/>
 To guard that soil, which birth and being gave,</l>
                <l>The tube of fire and cleaving falchion brave,</l>
                <l>With naked limbs a mailed host assail,</l>
@@ -594,7 +594,7 @@ To guard that soil, which birth and being gave,</l>
                <l>Hence with the sovereign sons of <hi>Albion</hi> join</l>
                <l>The thriftier children of the Belgic line,</l>
                <l>
-                  <pb n="29" facs="tcp:032512_0026_0FF313C9E6C648E8"/>
+                  <pb n="29" facs="unknown:032512_0026_0FF313C9E6C648E8"/>
 While from their lips a mingling idiom flows,</l>
                <l>Warm in their souls the fire of freedom glows;</l>
                <l>A foreign hero fans its fervid flame,</l>
@@ -619,7 +619,7 @@ While from their lips a mingling idiom flows,</l>
                <l>The LAND OF BROTHERS, whose benignant plains</l>
                <l>No crimes disgrace, no impious murder stains,<hi rend="sup">(</hi>12)</l>
                <l>
-                  <pb n="30" facs="tcp:032512_0027_0FF313CC9912AF98"/>
+                  <pb n="30" facs="unknown:032512_0027_0FF313CC9912AF98"/>
 Where PENN immortal fix'd his pure abode,</l>
                <l>The meek disciple of the pitying God,</l>
                <l>The guiltless race their threaten'd fate deplore,</l>
@@ -643,7 +643,7 @@ Where PENN immortal fix'd his pure abode,</l>
                <l>Though vain the hope to reach thy soaring fame,</l>
                <l>Yet shall this breast some kindred glory claim,</l>
                <l>
-                  <pb n="31" facs="tcp:032512_0028_0FF313CF8D7D6268"/>
+                  <pb n="31" facs="unknown:032512_0028_0FF313CF8D7D6268"/>
 Raised by thy worth, I quit the cherish'd scene,</l>
                <l>Where native Virtue rears her temperate mien,</l>
                <l>To guard her rights my fearless soul proceeds,</l>
@@ -668,7 +668,7 @@ Raised by thy worth, I quit the cherish'd scene,</l>
                <l>Crown'd with thy name, majestic <hi>Delaware,</hi>
                </l>
                <l>
-                  <pb n="32" facs="tcp:032512_0029_0FF313D32A6BA650"/>
+                  <pb n="32" facs="unknown:032512_0029_0FF313D32A6BA650"/>
 LEE, fiery champion of a people's right,</l>
                <l>Invites the war, and seeks the coming fight,</l>
                <l>Disdaining fear, impatient of control,</l>
@@ -691,7 +691,7 @@ LEE, fiery champion of a people's right,</l>
                <l>Sees the high mansion grace his stately side,</l>
                <l>And round its green vale leads his wandering tide,</l>
                <l>
-                  <pb n="33" facs="tcp:032512_0030_0FF313D616A96058"/>
+                  <pb n="33" facs="unknown:032512_0030_0FF313D616A96058"/>
 VIRGINIA! blest beyond each bordering clime,</l>
                <l>The noblest plume, that lifts the wing of time!—</l>
                <l>Not that luxuriance decks her festive bowers,</l>
@@ -716,7 +716,7 @@ VIRGINIA! blest beyond each bordering clime,</l>
                <l>What happier fate can mark thy golden days!</l>
                <l>What other hero win the voice of praise!</l>
                <l>
-                  <pb n="34" facs="tcp:032512_0031_0FF313D8C95C4550"/>
+                  <pb n="34" facs="unknown:032512_0031_0FF313D8C95C4550"/>
 And yet thy shores two laurel'd leaders yield,</l>
                <l>Brave as the foremost veterans of the field;</l>
                <l>GATES, train'd to war in <hi>Britain'</hi>s regal band,</l>
@@ -743,7 +743,7 @@ And yet thy shores two laurel'd leaders yield,</l>
                <l>Yet shall the clime, with vernal blushes fair,</l>
                <l>That hapless name in proud distinction wear,</l>
                <l>
-                  <pb n="35" facs="tcp:032512_0032_0FF313DD9FF90730"/>
+                  <pb n="35" facs="unknown:032512_0032_0FF313DD9FF90730"/>
 And every trophy of her patriot-brave</l>
                <l>Recal thy life, and triumph o'er the grave,</l>
                <l>Till the bold race, by hardy valor crown'd,</l>
@@ -767,7 +767,7 @@ And every trophy of her patriot-brave</l>
                <l>But still the stranger gladdens at the feast,</l>
                <l>An ever welcome, ever valued guest,</l>
                <l>
-                  <pb n="36" facs="tcp:032512_0033_0FF313E046CAA9A8"/>
+                  <pb n="36" facs="unknown:032512_0033_0FF313E046CAA9A8"/>
 The <hi>robe,</hi> the <hi>gown,</hi> with PEAN'S <hi>healing art,</hi>
                </l>
                <l>Shine at the board, and share the master's heart.—</l>
@@ -794,7 +794,7 @@ The <hi>robe,</hi> the <hi>gown,</hi> with PEAN'S <hi>healing art,</hi>
                <l>Urged by insidious power, and cherish'd hate,</l>
                <l>Aim'd at her bleeding heart the bolts of fate,</l>
                <l>
-                  <pb n="37" facs="tcp:032512_0034_0FF313E26658C5C0"/>
+                  <pb n="37" facs="unknown:032512_0034_0FF313E26658C5C0"/>
 She calls her <hi>faithful sons</hi> in bold array</l>
                <l>To stem the torrent of their wasteful way;—</l>
                <l>Raised at her voice, intrepid MOORE appears,</l>
@@ -818,7 +818,7 @@ She calls her <hi>faithful sons</hi> in bold array</l>
                <l>He crops the verdure of the growing grain,</l>
                <l>Or drags the wailing baby from the plain;</l>
                <l>
-                  <pb n="38" facs="tcp:032512_0035_0FF313E531562468"/>
+                  <pb n="38" facs="unknown:032512_0035_0FF313E531562468"/>
 E'en while the watchful fisher reads the skies,</l>
                <l>He feels his leaning bark unconscious rise,</l>
                <l>Then whirl impetuous to the plunging wave,</l>
@@ -844,7 +844,7 @@ E'en while the watchful fisher reads the skies,</l>
                <l>While in black streams the turbid clouds descend,</l>
                <l>And peals on peals the flashing concave rend,—</l>
                <l>
-                  <pb n="39" facs="tcp:032512_0036_0FF313E986380698"/>
+                  <pb n="39" facs="unknown:032512_0036_0FF313E986380698"/>
 Though many a reptile rear its slimy brood</l>
                <l>On the moist bosom of thy breezeless wood,—</l>
                <l>Though <hi>Afric</hi> feel thee on her ravaged plain,<hi rend="sup">(</hi>19)</l>
@@ -869,7 +869,7 @@ Though many a reptile rear its slimy brood</l>
                <l>And now the strong <hi>Artillery</hi> claims its birth,</l>
                <l>Terrific guardian of the trembling earth,</l>
                <l>
-                  <pb n="40" facs="tcp:032512_0037_0FF313EC5BC09958"/>
+                  <pb n="40" facs="unknown:032512_0037_0FF313EC5BC09958"/>
 With voice of vengeance, and tremendous breath,</l>
                <l>That wake the fiends of ruin, flight and death;—</l>
                <l>What daring arm directs its dangerous way!</l>
@@ -894,7 +894,7 @@ With voice of vengeance, and tremendous breath,</l>
                <l>
                   <hi>And mildest manners mark the noblest mind,(</hi>21)</l>
                <l>
-                  <pb n="41" facs="tcp:032512_0038_0FF313EE85D1E228"/>
+                  <pb n="41" facs="unknown:032512_0038_0FF313EE85D1E228"/>
 So while a country's wrong thy spirit sires,</l>
                <l>And patriot ardor every deed inspires,</l>
                <l>Not more revered in arms, than loved by fame</l>
@@ -919,7 +919,7 @@ So while a country's wrong thy spirit sires,</l>
                <l>While HE, with boundless mind and patient care,</l>
                <l>Train'd the young rustic to the veteran war,</l>
                <l>
-                  <pb n="42" facs="tcp:032512_0039_0FF313F141406F40"/>
+                  <pb n="42" facs="unknown:032512_0039_0FF313F141406F40"/>
 By bold example nerved the feeble hand,</l>
                <l>And shone the model of his own command,</l>
             </lg>
@@ -945,7 +945,7 @@ By bold example nerved the feeble hand,</l>
             </lg>
             <lg>
                <l>
-                  <pb n="43" facs="tcp:032512_0040_0FF313F610771298"/>
+                  <pb n="43" facs="unknown:032512_0040_0FF313F610771298"/>
 With rapid force the growing dangers press,</l>
                <l>And round the sufferers pour their deep distress,</l>
                <l>The crowding siege impels the wasted foe,</l>
@@ -969,7 +969,7 @@ With rapid force the growing dangers press,</l>
                <l>Full many a pang his melting heart assails,</l>
                <l>Yet the firm purpose of his mind prevails;</l>
                <l>
-                  <pb n="44" facs="tcp:032512_0041_0FF313F8C2A7FE20"/>
+                  <pb n="44" facs="unknown:032512_0041_0FF313F8C2A7FE20"/>
 E'en while soft pity raised her fond behest,</l>
                <l>An injured country nerved his closing breast:</l>
                <l>No restless hate his equal soul subdued,</l>
@@ -996,7 +996,7 @@ E'en while soft pity raised her fond behest,</l>
                   <hi>Britannia'</hi>s sons recruited strength prepare,</l>
                <l>And to the climes of summer bend the war,</l>
                <l>
-                  <pb n="45" facs="tcp:032512_0042_0FF313FB544B82C8"/>
+                  <pb n="45" facs="unknown:032512_0042_0FF313FB544B82C8"/>
 The faithful <hi>Hanoverian,</hi> long allied,</l>
                <l>Leads his bold bands on <hi>Albion'</hi>s sovereign side,</l>
                <l>The hardy <hi>Hesse,</hi> a fierce undaunted train,</l>
@@ -1022,7 +1022,7 @@ The faithful <hi>Hanoverian,</hi> long allied,</l>
                <l>Touch'd at the thought, the PATRIOT CHIEF restrains</l>
                <l>His ardent warriors from the forceful plains,</l>
                <l>
-                  <pb n="46" facs="tcp:032512_0043_0FF313FE08663138"/>
+                  <pb n="46" facs="unknown:032512_0043_0FF313FE08663138"/>
 Then yields accordant to the stern desire,</l>
                <l>And bids the unmolested foe retire.</l>
             </lg>
@@ -1046,7 +1046,7 @@ Then yields accordant to the stern desire,</l>
                <l>And now the delegated rulers shine</l>
                <l>A CONSTELLATION, form'd by power divine,</l>
                <l>
-                  <pb n="47" facs="tcp:032512_0044_0FF3140212C79248"/>
+                  <pb n="47" facs="unknown:032512_0044_0FF3140212C79248"/>
 That, with <hi>reflected</hi> force and <hi>blended</hi> rays,</l>
                <l>Each sovereign right, and patriot worth, displays.</l>
                <l>But when, at calm debate's enlighten'd hour,</l>
@@ -1070,7 +1070,7 @@ That, with <hi>reflected</hi> force and <hi>blended</hi> rays,</l>
                <l>When the fell mother, with uplifted knife,</l>
                <l>Thirsts for the stream, that seeds her children's life,</l>
                <l>
-                  <pb n="48" facs="tcp:032512_0045_0FF314052CDE2CF0"/>
+                  <pb n="48" facs="unknown:032512_0045_0FF314052CDE2CF0"/>
 Far from her rage the self-defenders fly,</l>
                <l>And wounded nature breaks the kindred tie.—</l>
                <l>Then, while your fields with fierce invaders flow,</l>
@@ -1094,7 +1094,7 @@ Far from her rage the self-defenders fly,</l>
                <l>Bends his bold course,—and, foremost of his train,</l>
                <l>Meets every danger of the bleeding plain:</l>
                <l>
-                  <pb n="49" facs="tcp:032512_0046_0FF314080CBCDD40"/>
+                  <pb n="49" facs="unknown:032512_0046_0FF314080CBCDD40"/>
 Too long this subjugated land has borne</l>
                <l>The lust of rapine, and the slight of scorn,</l>
                <l>Too long has seen oppressive power prevail,</l>
@@ -1122,7 +1122,7 @@ Too long this subjugated land has borne</l>
             </lg>
             <lg>
                <l>
-                  <pb n="50" facs="tcp:032512_0047_0FF314099D0FDD78"/>
+                  <pb n="50" facs="unknown:032512_0047_0FF314099D0FDD78"/>
 Nor were these bands, what lordly <hi>Europe</hi> brings,</l>
                <l>The vagrant vassals of her feudal kings;</l>
                <l>But the bold peasant, whose unfetter'd arm</l>
@@ -1146,7 +1146,7 @@ Nor were these bands, what lordly <hi>Europe</hi> brings,</l>
                <l>Of deathless deeds the treasured meed proclaim,</l>
                <l>And round the Hero's twine the Poet's name,</l>
                <l>
-                  <pb n="51" facs="tcp:032512_0048_0FF3140B837089F8"/>
+                  <pb n="51" facs="unknown:032512_0048_0FF3140B837089F8"/>
 Who, with prophetic voice, and votive lyre,</l>
                <l>Breathes what the <hi>Muses</hi> and THE GOD inspire.—</l>
                <l>—In this bright hour, when opening truth appears,</l>
@@ -1168,7 +1168,7 @@ Who, with prophetic voice, and votive lyre,</l>
                <l>From the hard bosom of the ice-clad seas,</l>
                <l>To the hot sorehead of the austral breeze,</l>
                <l>
-                  <pb n="52" facs="tcp:032512_0049_0FF314118BEF5410"/>
+                  <pb n="52" facs="unknown:032512_0049_0FF314118BEF5410"/>
 From where the morning wakes her infant beam,</l>
                <l>And golden <hi>Ganges</hi> slopes his amber stream,</l>
                <l>To where the West a crimson robe extends,</l>
@@ -1180,7 +1180,7 @@ From where the morning wakes her infant beam,</l>
       </body>
       <back>
          <div type="notes">
-            <pb facs="tcp:032512_0050_0FF3141317F9B5E8"/>
+            <pb facs="unknown:032512_0050_0FF3141317F9B5E8"/>
             <head>NOTES.</head>
             <div n="1" type="note">
                <head>NOTE FIRST. PAGE 13.</head>
@@ -1209,7 +1209,7 @@ From where the morning wakes her infant beam,</l>
                <p>SEE the oration delivered by P. MORTON, <abbr>Esq.</abbr> over the remains of General <hi>Warren,</hi> at their re-interment by public authority, after the royal army were compelled to evacuate the town of Boston.</p>
             </div>
             <div n="6" type="note">
-               <pb n="54" facs="tcp:032512_0051_0FF31415CBBF3B90"/>
+               <pb n="54" facs="unknown:032512_0051_0FF31415CBBF3B90"/>
                <head>NOTE SIXTH. PAGE 21.</head>
                <head>Disdain'd the meed his peerless perils claim.</head>
                <p>GENERAL <hi>Washington'</hi>s disinterested rejection of all pecuniary com<g ref="char:EOLhyphen"/>pensation for his inestimable services, though it form but a small feature in the portrait of <hi>his</hi> life, would in the character of any other hero be consid<g ref="char:EOLhyphen"/>ered an unparalleled trait of magnanimity and virtue.</p>
@@ -1242,7 +1242,7 @@ From where the morning wakes her infant beam,</l>
                   </gap> to the conquerors.</p>
             </div>
             <div n="11" type="note">
-               <pb n="55" facs="tcp:032512_0052_0FF3141861A18328"/>
+               <pb n="55" facs="unknown:032512_0052_0FF3141861A18328"/>
                <head>NOTE ELEVENTH. PAGE 28.</head>
                <head>To YORK'S imperial House transfer'd the claim.</head>
                <p>THE Island of <hi>New York,</hi> formerly called the <hi>New Netherlands,</hi> was peopled originally from the Batavian and Belgic provinces;—Charles II. under pretence of its having been discovered by <hi>Henry Hudson,</hi> and English<g ref="char:EOLhyphen"/>man, granted the whole province to the Duke of York, under whose com<g ref="char:EOLhyphen"/>mand it was conquered; but finally, it was confirmed to the English by purchase or compromise with the Dutch.</p>
@@ -1273,7 +1273,7 @@ From where the morning wakes her infant beam,</l>
                <p>THE original constitution of <hi>Carolina</hi> was framed by the celebrated Mr. <hi>Locke,</hi> of an aristocratical form, establishing orders of Nobility. <hi>Lend.</hi> Vol. I. And although now its principles are those of a democratic Republic, there is no State in the Union, in which the distinction of rank and situation is so tenaciously observed: The planter disdains to associate with the mechanic, and even the merchant; yet their characteristic, though haughty, is hospi<g ref="char:EOLhyphen"/>table, generous and enlightened.</p>
             </div>
             <div n="16" type="note">
-               <pb n="56" facs="tcp:032512_0053_0FF3141B12383710"/>
+               <pb n="56" facs="unknown:032512_0053_0FF3141B12383710"/>
                <head>NOTE SIXTEENTH. PAGE 36.</head>
                <head>Her PALLID SISTER lifts her languid arms.</head>
                <p>THE outlawed inhabitants of the west part of <hi>North Carolina,</hi> who had formerly denominated themselves <hi>Regulators,</hi> and under that character at<g ref="char:EOLhyphen"/>tempted to change the government of the colony, from a principle of re<g ref="char:EOLhyphen"/>venge against the other citizens, who had opposed them in the field, were easily persuaded to join the royal standard at the beginning of the Revolu<g ref="char:EOLhyphen"/>tion, when they were totally defeated by General <hi>Moore,</hi> and their brave commander, <hi>McDonald,</hi> was taken.</p>
